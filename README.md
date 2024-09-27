@@ -1,4 +1,4 @@
-# tweet-simulator
+# TweetSimulator
 
 ## Project setup
 ```
